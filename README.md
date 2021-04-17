@@ -14,7 +14,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-wow
+部署
 
 1.  **Create a Gatsby site.**
 
